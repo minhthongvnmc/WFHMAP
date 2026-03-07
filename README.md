@@ -1,4 +1,4 @@
-# WFHMAP City (Bedrock & Java Edition)
+# WFHMAP City (Bedrock Edition)
 
 ![1000645716](https://github.com/user-attachments/assets/fd2aef01-121d-45da-a5d6-a6791900681a)
 
