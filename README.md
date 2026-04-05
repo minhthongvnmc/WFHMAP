@@ -32,22 +32,6 @@ WFHMAP City (formerly World Flat House Map) is a large-scale and highly detailed
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/05f51a9e-d0bf-4a72-8ddb-03cfe148545a)
 
-
-🛠 Development Roadmap (Changelog)
-The project has undergone significant evolution through multiple versions:
- * V1.0a: Initial Alpha release on May 29, 2023.
- * V1.5a: Released on August 31, 2023.
- * V2.0a: Released on September 3rd, 2023.
- * V2.5a: Released on September 8th, 2023.
- * V3.0a: Released on September 16, 2023.
- * V4.0a Released on November 3rd, 2023.
- * V4.5a Released on December 1st, 2023.
- * V5.0.6a Released on February 11, 2024.
- * V1.8a Released on May 23, 2025.
- * V1.9 Released on June 18, 2025
- * V2.0.1 Released on August 8th, 2025
- * V2.1.0b: Major update on, 2026...
-
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/ce878331-39b0-4bb1-a0ee-20e3ac654ec7)
 
 💬 Connect & Support
