@@ -5,7 +5,7 @@
 WFH City (formerly World Flat House Map) is a large-scale and highly detailed urban development project in Minecraft Bedrock edition, developed by MinhthongVNMC Studio. First released as an alpha version on May 29, 2023, it is the result of a continuous creative effort to transform a flat world into a vibrant, modern city.
 
 
-If you are from the North or need assistance, please contact us here:
+If you encounter any problems or need assistance, please contact us here:
 minhthongvnmcstudio@gmail.com
 
 ![1000705695](https://github.com/user-attachments/assets/ceb6631b-77ff-44eb-9772-04984c42bf98)
