@@ -7,27 +7,34 @@ WFHMAP City (formerly World Flat House Map) is a large-scale and highly detailed
 ---
 
 ### 📌 Project Information
-● Creator: MinhthongVNMC Studio
-● Platform: Minecraft Bedrock Edition
-● Initial Creation Date: May 29, 2023
-● Note: This is currently a beta version, not the official release. Please wait until December 2027!
+Creator: MinhthongVNMC Studio
+Platform: Minecraft Bedrock Edition
+Initial Creation Date: May 29, 2023
+Note: This is currently a beta version, not the official release. Please wait until December 2027!
 
 ### 👥 Team & Contributors
-● Author/Builder: MinhthongVNMC Studio
-● Author's contributions: Nguyen minh toi
+Author/Builder
+MinhthongVNMC Studio
+
+Author's contributions
+Nguyen minh toi
 
 ### 🌐 Supported Languages
-● 🇻🇳 Vietnamese (Main)
-● 🇺🇲 English (Coming soon)
+🇻🇳 Vietnamese (Main)
+🇺🇲 English (Coming soon)
 
 ---
 
 ### 📱 Follow Us
-● Youtube: https://www.youtube.com/@minhthongvnmc
-● Tiktok: https://www.tiktok.com/@minhthongvnmc
-● Discord: https://discord.gg/S9TjrjMJnN
-● Twitter: https://x.com/minhthongvnmc
-● Facebook: https://www.facebook.com/minhthongvnmcstu
+Youtube https://www.youtube.com/@minhthongvnmc
+Tiktok
+https://www.tiktok.com/@minhthongvnmc
+Discord
+https://discord.gg/S9TjrjMJnN
+Twitter
+https://x.com/minhthongvnmc
+Facebook
+https://www.facebook.com/minhthongvnmcstu
 
 ---
 
