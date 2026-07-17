@@ -1,36 +1,21 @@
 # WFHMC City (Bedrock Edition)
 
-A detailed urban development project in Minecraft Bedrock by MinhthongVNMC Studio. Started May 29, 2023, transforming a flat world into a modern city.
+WFHMC City (formerly World Flat House Map) is a large-scale and highly detailed urban development project in Minecraft Bedrock edition, developed by MinhthongVNMC Studio. First released as an alpha version on May 29, 2023, it is the result of a continuous vibrant, modern city.
 
-📌 PROJECT INFO
-• Creator: MinhthongVNMC Studio
-• Platform: Minecraft Bedrock Edition
-• Status: Beta version (Official release: December 2027)
+● Creator: MinhthongVNMC Studio
+● Platform: Minecraft Bedrock Edition
+● nitial Creation Date: May 29, 2023
 
-👥 TEAM & CONTRIBUTORS
-• Author/Builder: MinhthongVNMC Studio
-• Contributions: Nguyen minh toi
+# ist of supported language:
+● 🇻🇳Vietnamese (main)
+● 🇺🇸English (Soming soon)
 
-🌐 LANGUAGES
-• 🇻🇳Vietnamese (Main)
-• 🇺🇸English (Coming soon)
+# Author/Builder
+● MinhthongVNMC Studio 
 
-📱 FOLLOW US
-YouTube: https://www.youtube.com/@minhthongvnmc
+# Author's contributions
+● Nguyen minh toi
 
-TikTok
-https://www.tiktok.com/@minhthongvnmc
+# Follow us
+# Youtube
 
-Discord
-https://discord.gg/S9TjrjMJnN
-
-Twitter
-https://x.com/minhthongvnmc
-
-Facebook https://www.facebook.com/minhthongvnmcstu
-
-✉️ CONTACT
-If you have any questions, please contact us via email here:
-• Email: minhthongvnmcstudio@gmail.com
-
-Note: This is currently a beta version, not the official release. Please wait until December 2027!
