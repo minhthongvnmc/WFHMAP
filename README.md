@@ -15,24 +15,28 @@ Note: This is currently a beta version, not the official release. Please wait un
 ### 👥 Team & Contributors
 Author/Builder
 MinhthongVNMC Studio
-
 Author's contributions
 Nguyen minh toi
 
 ### 🌐 Supported Languages
 🇻🇳 Vietnamese (Main)
+
 🇺🇲 English (Coming soon)
 
 ---
 
 ### 📱 Follow Us
 Youtube https://www.youtube.com/@minhthongvnmc
+
 Tiktok
 https://www.tiktok.com/@minhthongvnmc
+
 Discord
 https://discord.gg/S9TjrjMJnN
+
 Twitter
 https://x.com/minhthongvnmc
+
 Facebook
 https://www.facebook.com/minhthongvnmcstu
 
