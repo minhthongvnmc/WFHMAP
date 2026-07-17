@@ -44,10 +44,10 @@ Curseforge
 https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition
 
 Mcpedl
-https://mcpedl.com/wfhmc-city-bedrock-edition/https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition
+https://mcpedl.com/wfhmc-city-bedrock-edition
 
 Planet Minecraft
-https://www.planetminecraft.com/project/world-flat-house-map/
+https://www.planetminecraft.com/project/world-flat-house-map
 ---
 
 ### ✉️ Contact Support
