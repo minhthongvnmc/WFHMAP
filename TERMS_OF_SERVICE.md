@@ -1,6 +1,6 @@
 # Terms of Service - WFHMC City
 
-**Last Updated: January 2, 2026**
+**Last Updated: July 18, 2026**
 
 Please read these Terms of Service ("Terms") carefully before using the **WFHMC City** repository, software, or services (the "Project"). By accessing or using any part of the Project, you agree to become bound by the terms and conditions of this agreement.
 
