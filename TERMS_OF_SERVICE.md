@@ -1,13 +1,13 @@
-# Terms of Service - WFHMAP
+# Terms of Service - WFHMC City
 
 **Last Updated: January 2, 2026**
 
-Please read these Terms of Service ("Terms") carefully before using the **WFHMAP** repository, software, or services (the "Project"). By accessing or using any part of the Project, you agree to become bound by the terms and conditions of this agreement.
+Please read these Terms of Service ("Terms") carefully before using the **WFHMC City** repository, software, or services (the "Project"). By accessing or using any part of the Project, you agree to become bound by the terms and conditions of this agreement.
 
 ---
 
 ### 1. Acceptance of Terms
-By using WFHMAP, you signify your irrevocable acceptance of these Terms. If you do not agree to all the terms and conditions, then you may not access or use the Project.
+By using WFHMC City, you signify your irrevocable acceptance of these Terms. If you do not agree to all the terms and conditions, then you may not access or use the Project.
 
 ### 2. License and Usage
 The Project is licensed under the [Your License Name, e.g., MIT License]. Your use of the source code is governed by that license. You agree not to use the Project for any unlawful or prohibited activities.
