@@ -1,11 +1,11 @@
-# Privacy Policy for WFHMAP
+# Privacy Policy for WFHMC City
 
 **Last Updated: January 2, 2026**
 
-Your privacy is important to us. This Privacy Policy explains how **WFHMAP** ("we", "us", or "the Project") handles information when you use our application and services.
+Your privacy is important to us. This Privacy Policy explains how **WFHMC City** ("we", "us", or "the Project") handles information when you use our application and services.
 
 ### 1. Information We Collect
-* **Location Data:** WFHMAP may request access to your device's location to show nearby workspaces on the map. This data is processed locally on your device or sent to map service providers (like Google Maps or Mapbox) to provide the service.
+* **Location Data:** WFHMC City may request access to your device's location to show nearby workspaces on the map. This data is processed locally on your device or sent to map service providers (like Google Maps or Mapbox) to provide the service.
 * **Usage Data:** We do not track or store your personal browsing history or identity.
 
 ### 2. How We Use Information
