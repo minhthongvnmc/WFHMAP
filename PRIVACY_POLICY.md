@@ -1,6 +1,6 @@
 # Privacy Policy for WFHMC City
 
-**Last Updated: January 2, 2026**
+**Last Updated: July 18, 2026**
 
 Your privacy is important to us. This Privacy Policy explains how **WFHMC City** ("we", "us", or "the Project") handles information when you use our application and services.
 
