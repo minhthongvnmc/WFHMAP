@@ -24,8 +24,8 @@ Nguyen minh toi
 🇺🇲 English (Coming soon)
 
 
-# WFHMC City Old Trailer official
-https://youtu.be/UQ158Vi1fEc?si=VnX0JKqg28z9tHPb
+Join Discord today to get the latest updates and become part of the WFHMC City community!
+https://discord.gg/S9TjrjMJnN
 
 ---
 
@@ -34,9 +34,6 @@ Youtube https://www.youtube.com/@minhthongvnmc
 
 Tiktok
 https://www.tiktok.com/@minhthongvnmc
-
-Discord
-https://discord.gg/S9TjrjMJnN
 
 Twitter
 https://x.com/minhthongvnmc
