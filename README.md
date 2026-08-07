@@ -23,7 +23,7 @@ Nguyen minh toi
 
 🇺🇲 English (Coming soon)
 
-
+### Discord Severs
 Join Discord today to get the latest updates and become part of the WFHMC City community!
 https://discord.gg/S9TjrjMJnN
 
