@@ -32,27 +32,39 @@ Nguyen minh toi
 
 ### Discord Severs
 Join Discord today to get the latest updates and become part of the WFHMC City community!
-https://discord.gg/S9TjrjMJnN
+| | |
+| :--- | :--- |
+| **DISCORD** | [![WFHMC City Official](https://img.shields.io/badge/WFHMC%20City%20Official-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S9TjrjMJnN) |
+
 
 ---
 
 ### 📱 Follow Us
-Youtube https://www.youtube.com/@minhthongvnmc
 
-Tiktok
-https://www.tiktok.com/@minhthongvnmc
+| | |
+| :--- | :--- |
+| **YOUTUBE** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
 
-Twitter
-https://x.com/minhthongvnmc
+| | |
+| :--- | :--- |
+| **TIKTOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
 
-Facebook
-https://www.facebook.com/minhthongvnmcstudio
+
+| | |
+| :--- | :--- |
+| **X** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
+
+
+| | |
+| :--- | :--- |
+| **FACEBOOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhthongvnmcstudio) |
+
 
 
 # Download maps
 
-Curseforge
-https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition
+[![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition)
+
 
 Mcpedl
 https://mcpedl.com/wfhmc-city-bedrock-edition
