@@ -45,6 +45,7 @@ Join Discord today to get the latest updates and become part of the WFHMC City c
 | :--- | :--- |
 | **YOUTUBE** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
 
+
 | | |
 | :--- | :--- |
 | **TIKTOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
@@ -64,9 +65,7 @@ Join Discord today to get the latest updates and become part of the WFHMC City c
 # Download maps
 
 [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition)
-
 [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-538332?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/wfhmc-city-bedrock-edition)
-
 [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map)
 
 
