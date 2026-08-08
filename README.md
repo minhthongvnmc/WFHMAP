@@ -65,12 +65,11 @@ Join Discord today to get the latest updates and become part of the WFHMC City c
 
 [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition)
 
+[![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-538332?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/wfhmc-city-bedrock-edition)
 
-Mcpedl
-https://mcpedl.com/wfhmc-city-bedrock-edition
+[![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map)
 
-Planet Minecraft
-https://www.planetminecraft.com/project/world-flat-house-map
+
 
 ---
 
