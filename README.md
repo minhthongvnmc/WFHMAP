@@ -4,13 +4,11 @@
 | :--- | :--- |
 | **RELEASE** | ![Release](https://img.shields.io/badge/V2.5__Beta-2EA44F?style=for-the-badge) |
 | **LICENSE** | [![License](https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE) |
-| **DOWNLOADS** | [![GitHub Release](https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta) |
-
----
+| **DOWNLOADS** | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta) |
 
 # WFHMC City (Bedrock Edition)
 
-WFHMC City (formerly World Flat House Map) is a large-scale and highly detailed urban development project in Minecraft Bedrock Edition, developed by MinhthongVNMC Studio. First released in Alpha on May 29, 2023, it represents a continuous creative effort to transform a flat world into a vibrant, modern city.
+WFHMC City (formerly World Flat House Map) is a large-scale, meticulously detailed urban development project built for Minecraft Bedrock Edition, developed by MinhthongVNMC Studio. First launched in its Alpha stage on May 29, 2023, it represents an ongoing creative journey to transform a flat world into a thriving, modern metropolis.
 
 ---
 
@@ -18,52 +16,48 @@ WFHMC City (formerly World Flat House Map) is a large-scale and highly detailed 
 
 - **Creator:** MinhthongVNMC Studio
 - **Platform:** Minecraft Bedrock Edition
-- **Initial Release Date:** May 29, 2023
-- **Status:** Beta Release (Official release planned for December 2027)
+- **Initial Creation Date:** May 29, 2023
+- **Note:** This project is currently in Beta. The official full release is planned for December 2027!
 
 ---
 
 ### 👥 Team & Contributors
 
 - **Author / Lead Builder:** MinhthongVNMC Studio
-- **Contributors:** Nguyen Minh Toi
+- **Main Contributor:** Nguyen Minh Toi
 
 ---
 
 ### 💬 Discord Server
 
-Join our Discord community to get the latest updates and connect with other builders!
+Join our Discord community to receive the latest updates and connect with other players!
 
-| | |
+| Platform | Link |
 | :--- | :--- |
-| **DISCORD** | [![WFHMC City Official](https://img.shields.io/badge/WFHMC%20City%20Official-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S9TjrjMJnN) |
+| **Discord** | [![WFHMC City Official](https://img.shields.io/badge/WFHMC%20City%20Official-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S9TjrjMJnN) |
 
 ---
 
 ### 📱 Follow Us
 
-| Platform | Badge / Link |
+| Platform | Link |
 | :--- | :--- |
-| **YOUTUBE** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
-| **TIKTOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
-| **X** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
-| **FACEBOOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhthongvnmcstudio) |
+| **YouTube** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
+| **TikTok** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
+| **X (Twitter)** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
+| **Facebook** | [![MinhthongVNMC Studio](https://img.shields.io/badge/MinhthongVNMC%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhthongvnmcstudio) |
 
 ---
 
-### 📥 Download Maps
+### 📥 Other Download Providers
 
-#### Primary Source
-[![GitHub](https://img.shields.io/badge/GitHub%20Releases-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
-
-#### Other Providers
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition)
 [![MCPEDL](https://img.shields.io/badge/MCPEDL-538332?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/wfhmc-city-bedrock-edition)
-[![Planet Minecraft](https://img.shields.io/badge/Planet%20Minecraft-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map)
+[![Planet Minecraft](https://img.shields.io/badge/Planet_Minecraft-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map)
 
 ---
 
 ### ✉️ Contact Support
 
-For support or inquiries, please contact us via email:  
+For inquiries or support, please reach out via email:  
 **minhthongvnmcstudio@gmail.com**
