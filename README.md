@@ -27,7 +27,7 @@ WFHMC City (formerly World Flat House Map) is a large-scale and highly detailed 
 ### 👥 Team & Contributors
 
 - **Main Developer & Studio:** MinhthongVNMC Studio
-- **Author & Builder:** Nguyen Minh Toi
+- **Author & Contribute:** Nguyen Minh Toi
 
 ---
 
