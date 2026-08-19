@@ -9,7 +9,7 @@ Animated Menu: WFHMC City is a dynamic, custom main menu project for Minecraft, 
 <br/>
 
 [![Latest Release](https://img.shields.io/github/v/release/minhthongvnmc/Animated-Menu-WFHMC-City?style=for-the-badge&label=Release&color=28a745&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
-[![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
+[![Total Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=for-the-badge&label=Downloads&color=17a2b8&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases)
 [![License](https://img.shields.io/badge/License-MIT-dc3545?style=for-the-badge&labelColor=0d1117)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/blob/main/LICENSE)
 
 <br/>
@@ -66,9 +66,10 @@ This project transforms Minecraft's default title screen into a stunning, colorf
 
 ### Official Downloads
 
-| Build Profile | Version / Tag | Download & Real-time Metrics | Link |
+| Build Profile | Version / Tag | Real-time Download Counter | Link |
 | :---: | :---: | :---: | :---: |
-| **Official Release** | `V1.0.0_Beta1` | [![Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=17a2b8&label=Total%20Downloads)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
+| **Official Release** | `V1.0.0_Beta1` | ![Real-time Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/V1.0.0_Beta1/total?style=flat-square&color=17a2b8&label=Live%20Downloads) | [**Download V1.0.0_Beta1**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
+| **All Releases** | `Total` | ![All Time Downloads](https://img.shields.io/github/downloads/minhthongvnmc/Animated-Menu-WFHMC-City/total?style=flat-square&color=28a745&label=All%20Releases) | [**View Releases**](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases) |
 
 ---
 
