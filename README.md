@@ -5,12 +5,22 @@
 | **RELEASE** | [![Release](https://img.shields.io/badge/V2.5__Beta-2EA44F?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta) |
 | **LICENSE** | [![License](https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE) |
 | **DOWNLOADS** | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta) |
+| **DOWNLOADS COUNT** | [![GitHub all releases](https://img.shields.io/github/downloads/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=238636)](https://github.com/minhthongvnmc/WFHMC-City/releases) |
 
 ---
 
 # WFHMC City (Bedrock Edition)
 
 WFHMC City (formerly World Flat House Map) is a large-scale and highly detailed urban development project in Minecraft Bedrock Edition, developed by MinhthongVNMC Studio. First released as an alpha version on May 29, 2023, it is the result of continuous creative effort to transform a flat world into a vibrant, modern city.
+
+---
+
+### ⚠️ NOTICE & COPY WARNING
+
+> **PLEASE READ CAREFULLY BEFORE DOWNLOADING / USING:**  
+> - **Copyright & Attribution:** This project is licensed under **Creative Commons Attribution-NonCommercial 3.0 (CC BY-NC 3.0)**. You are strictly prohibited from redistributing, reuploading, or publishing unauthorized copies/modifications of this map on any platform without explicit permission from MinhthongVNMC Studio.  
+> - **Commercial Use:** Any commercial use or monetization involving this project or its assets is strictly forbidden.  
+> - **Official Links Only:** Please only download from the official download links listed below to ensure safety, security, and the latest updates.  
 
 ---
 
