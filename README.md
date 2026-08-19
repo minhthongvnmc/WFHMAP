@@ -5,50 +5,32 @@
 | **RELEASE** | [![Release](https://img.shields.io/badge/V2.5__Beta-2EA44F?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta) |
 | **LICENSE** | [![License](https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE) |
 | **DOWNLOADS** | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta) |
-| **DOWNLOADS COUNT** | [![GitHub all releases](https://img.shields.io/github/downloads/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=238636)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1) |
+| **DOWNLOADS COUNT** | [![GitHub all releases](https://img.shields.io/github/downloads/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=238636)](https://github.com/minhthongvnmc/WFHMC-City/releases) |
 
 ---
 
-# WFHMC City & Animated Menu (Bedrock Edition)
+# WFHMC City (Bedrock Edition)
 
-**WFHMC City** (formerly World Flat House Map) is a large-scale and highly detailed urban development project in Minecraft Bedrock Edition, developed by MinhthongVNMC Studio. First released as an alpha version on May 29, 2023, it is the result of continuous creative effort to transform a flat world into a vibrant, modern city.
-
-**Animated Menu: WFHMC City** is a dynamic custom main menu pack designed to replace standard backgrounds with a fully animated, high-quality cityscape theme based on WFHMC City.
+WFHMC City (formerly World Flat House Map) is a large-scale and highly detailed urban development project in Minecraft Bedrock Edition, developed by MinhthongVNMC Studio. First released as an alpha version on May 29, 2023, it is the result of continuous creative effort to transform a flat world into a vibrant, modern city.
 
 ---
 
 ### ⚠️ NOTICE & COPY WARNING
 
 > **PLEASE READ CAREFULLY BEFORE DOWNLOADING / USING:**  
-> - **Copyright & Attribution:** This project is licensed under **Creative Commons Attribution-NonCommercial 3.0 (CC BY-NC 3.0)**. You are strictly prohibited from redistributing, reuploading, or publishing unauthorized copies/modifications of this map or menu UI on any platform without explicit permission from MinhthongVNMC Studio.  
+> - **Copyright & Attribution:** This project is licensed under **Creative Commons Attribution-NonCommercial 3.0 (CC BY-NC 3.0)**. You are strictly prohibited from redistributing, reuploading, or publishing unauthorized copies/modifications of this map on any platform without explicit permission from MinhthongVNMC Studio.  
 > - **Commercial Use:** Any commercial use or monetization involving this project or its assets is strictly forbidden.  
-> - **Official Links Only:** Please only download from the official download links listed below to ensure safety, security, and access to the latest updates.  
+> - **Official Links Only:** Please only download from the official download links listed below to ensure safety, security, and the latest updates.  
 
 ---
 
 ### 📌 Project Information
 
-- **Project Name:** WFHMC City & Animated Menu (Bedrock Edition)
+- **Project Name:** WFHMC City (Bedrock Edition)
 - **Main Developer / Studio:** MinhthongVNMC Studio
 - **Platform:** Minecraft Bedrock Edition
 - **Initial Creation Date:** May 29, 2023
-- **Animated Menu Release Date:** August 8, 2026
 - **Current Status:** Beta Version *(Official release scheduled for December 2027)*
-
----
-
-### ✨ Key Features
-
-* **Vibrant Natural & Urban Scenery:**
-  * Lush green foliage surrounding cozy, rustic wooden structures and modern cityscape builds.
-  * Blooming flowers with striking contrast and atmospheric neighborhood lighting.
-
-* **Realistic Shader & Visual Enhancements:**
-  * Sunlight filtering through foliage producing dynamic shadows and realistic environmental depth.
-  * Calm water reflections and surface refraction effects tailored for the title menu screen.
-
-* **Optimized User Interface:**
-  * Preserves essential navigation buttons (Play, Settings, Skins, Friends) for seamless usability.
 
 ---
 
@@ -80,16 +62,15 @@ Join our Discord server to get the latest updates and become part of the WFHMC C
 
 ---
 
-### 📥 Downloads & Releases
+### 📥 Download Maps
 
-#### 🔹 WFHMC City Map Downloads
+#### 🔹 Primary Download (GitHub Releases)
 [![GitHub Direct Download](https://img.shields.io/badge/GitHub--Releases-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
+
+#### 🔹 Other Providers
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition)
 [![MCPEDL](https://img.shields.io/badge/MCPEDL-538332?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/wfhmc-city-bedrock-edition)
 [![PlanetMinecraft](https://img.shields.io/badge/PlanetMinecraft-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map)
-
-#### 🔹 Animated Menu UI Pack Downloads
-[![Animated Menu Release](https://img.shields.io/badge/Animated--Menu--Release-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/Animated-Menu-WFHMC-City/releases/tag/V1.0.0_Beta1)
 
 ---
 
